@@ -14,11 +14,13 @@ Este proyecto es una solución integral de análisis de datos y Machine Learning
 
 - `/notebooks`: Contiene el código fuente en Python (`ProyectoFinal.ipynb`) con el EDA, preprocesamiento y entrenamiento del modelo.
 - `/dashboards`: Contiene el reporte final en PDF (`PFinalvM.pdf`) y el archivo de Power BI.
-- *Nota: Por buenas prácticas, el dataset original y los archivos `.csv` intermedios no están subidos a este repositorio.* ## 🛠️ Tecnologías Utilizadas
+- *Nota: Por buenas prácticas, el dataset original y los archivos `.csv` intermedios no están subidos a este repositorio.*
+## 🛠️ Tecnologías Utilizadas
 - **Lenguaje:** Python (Pandas, Scikit-Learn, Matplotlib/Seaborn)
 - **Entorno:** Google Colab / Jupyter Notebook
 - **Visualización:** Microsoft Power BI
 - **Fuente de Datos:** Kaggle
 
 ## 📊 Resultados Visuales
-*(Te sugiero reemplazar este texto con una captura de pantalla de tu dashboard de Power BI para que sea visible de inmediato en GitHub).*
+<img width="958" height="539" alt="image" src="https://github.com/user-attachments/assets/7c9b178b-326f-4809-ab7a-bde10859c579" />
+
