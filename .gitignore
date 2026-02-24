@@ -1,0 +1,9 @@
+# Ignorar bases de datos y archivos pesados
+data/
+*.csv
+*.xlsx
+*.rar
+
+# Archivos temporales de Python/Jupyter
+.ipynb_checkpoints/
+__pycache__/
